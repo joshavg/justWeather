@@ -17,7 +17,6 @@ import org.json.JSONObject;
 import java.io.UnsupportedEncodingException;
 import java.net.URLEncoder;
 
-
 public class MainActivity extends ActionBarActivity {
 
     @Override
